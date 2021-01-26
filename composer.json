@@ -22,6 +22,7 @@
         "drupal/core-recommended": "^8.8",
         "drupal/core-vendor-hardening": "^8.8",
         "drupal/search_api": "^1.18",
+        "drupal/super_login": "^1.6",
         "drupal/webform": "^6.0"
     },
     "conflict": {
