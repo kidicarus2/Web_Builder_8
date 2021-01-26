@@ -17,6 +17,7 @@
     "require": {
         "composer/installers": "^1.2",
         "drupal/addtoany": "^1.14",
+        "drupal/appointment_calendar": "^1.5",
         "drupal/blog": "^3.0",
         "drupal/core-composer-scaffold": "^8.8",
         "drupal/core-project-message": "^8.8",
