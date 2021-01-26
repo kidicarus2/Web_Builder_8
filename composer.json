@@ -17,6 +17,7 @@
     "require": {
         "composer/installers": "^1.2",
         "drupal/addtoany": "^1.14",
+        "drupal/admin_toolbar": "^3.0",
         "drupal/appointment_calendar": "^1.5",
         "drupal/backup_migrate": "^4.1",
         "drupal/blog": "^3.0",
